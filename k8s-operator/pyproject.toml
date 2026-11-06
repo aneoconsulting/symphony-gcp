@@ -24,7 +24,7 @@ version = "0.2.6"
 
 [project.optional-dependencies]
 dev = [
-    "pytest == 8.3.3",
+    "pytest == 9.0.3",
     "pytest-cov == 6.1.1",
     "pytest-mock == 3.14.1",
     "pytest-asyncio == 1.0.0",
